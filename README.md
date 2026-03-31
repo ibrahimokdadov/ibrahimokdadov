@@ -10,7 +10,6 @@
 - [**claudecost**](https://github.com/ibrahimokdadov/claudecost) — real-time cost and token tracker for Claude Code
 - [**claudeView**](https://github.com/ibrahimokdadov/claudeView) · [↗](https://claudeview.whhite.com/) — desktop widget that turns Claude Code sessions into animated plants
 - [**taskaude**](https://github.com/ibrahimokdadov/taskaude) — browser monitor for Claude Code background agents
-- [**winopenoats**](https://github.com/ibrahimokdadov/winopenoats) · [↗](https://winopenoats.whhite.com/) — Windows meeting assistant: real-time transcription + knowledge base
 
 `~/dev-tools`
 
@@ -22,6 +21,7 @@
 
 `~/apps`
 
+- [**winopenoats**](https://github.com/ibrahimokdadov/winopenoats) · [↗](https://winopenoats.whhite.com/) — Windows meeting assistant: real-time transcription + knowledge base
 - [**dilusional**](https://github.com/ibrahimokdadov/dilusional) · [↗](https://dilusional.whhite.com/) — scores your commits against Claude's code, with roasts and diffs
 - [**sujoodSaho**](https://github.com/ibrahimokdadov/sujoodSaho) · [↗](https://sujoodsaho.whhite.com/) — interactive guide for Sujood al-Saho: decision tree and flashcard quiz
 - [**fitrZT**](https://github.com/ibrahimokdadov/fitrZT) · [↗](https://zakatfitr.whhite.com) — Zakat al-Fitr calculator, bilingual Arabic/English
