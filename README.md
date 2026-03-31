@@ -2,38 +2,42 @@
 
 **AI Builder · Entrepreneur · Shipping products fast**
 
-Business & Dev at [Amal Invest (YC W22)](https://amalinvest.com) · Building in public at [journey.yaz.in](https://journey.yaz.in)
+---
+
+`~/claude-tools`
+
+- [**claudeMonitor**](https://github.com/ibrahimokdadov/claudeMonitor) · [↗](https://claudemonitor.whhite.com/) — live dashboard for monitoring multiple Claude Code sessions
+- [**claudecost**](https://github.com/ibrahimokdadov/claudecost) — real-time cost and token tracker for Claude Code
+- [**claudeView**](https://github.com/ibrahimokdadov/claudeView) · [↗](https://claudeview.whhite.com/) — desktop widget that turns Claude Code sessions into animated plants
+- [**taskaude**](https://github.com/ibrahimokdadov/taskaude) — browser monitor for Claude Code background agents
+- [**winopenoats**](https://github.com/ibrahimokdadov/winopenoats) · [↗](https://winopenoats.whhite.com/) — Windows meeting assistant: real-time transcription + knowledge base
+
+`~/dev-tools`
+
+- [**recoverer**](https://github.com/ibrahimokdadov/recoverer) · [↗](https://recoverer.whhite.com/) — Windows file recovery tool, Rust engine
+- [**DiskSizer**](https://github.com/ibrahimokdadov/DiskSizer) · [↗](https://disksizer.whhite.com/) — high-performance disk analyzer with sunburst and treemap visualizations
+- [**mdPDF**](https://github.com/ibrahimokdadov/mdPDF) · [↗](https://mdpdf.whhite.com/) — Markdown → styled PDF with live preview and Mermaid diagram support
+- [**mobiler**](https://github.com/ibrahimokdadov/mobiler) — lightweight Android emulator for React Native devs, built with Tauri and QEMU
+- [**svger**](https://github.com/ibrahimokdadov/svger) · [↗](https://svger.whhite.com/) — browser-based SVG editor: recolor, transform, export to PNG/JPEG/WebP
+
+`~/apps`
+
+- [**dilusional**](https://github.com/ibrahimokdadov/dilusional) · [↗](https://dilusional.whhite.com/) — scores your commits against Claude's code, with roasts and diffs
+- [**sujoodSaho**](https://github.com/ibrahimokdadov/sujoodSaho) · [↗](https://sujoodsaho.whhite.com/) — interactive guide for Sujood al-Saho: decision tree and flashcard quiz
+- [**fitrZT**](https://github.com/ibrahimokdadov/fitrZT) · [↗](https://zakatfitr.whhite.com) — Zakat al-Fitr calculator, bilingual Arabic/English
+- [**gmailCleanse**](https://github.com/ibrahimokdadov/gmailCleanse) — Gmail bulk cleanup that runs entirely inside Google Sheets
+- [**expenseTrackerAPP**](https://github.com/ibrahimokdadov/expenseTrackerAPP) — React Native personal expense tracker
+- [**raceGame**](https://github.com/ibrahimokdadov/raceGame) — 3D driving sim with a procedurally-generated city, built with Three.js
+
+`~/tutorials`
+
+- [**upload_file_python**](https://github.com/ibrahimokdadov/upload_file_python) — file upload with Python and Flask · ⭐ 109
+- [**openCV3_tutorials**](https://github.com/ibrahimokdadov/openCV3_tutorials) — computer vision code from YouTube tutorials
 
 ---
 
-## What I'm building
-
-| Project | What it does |
-|---|---|
-| [**linkder**](https://github.com/ibrahimokdadov/linkder) | AI LinkedIn reply assistant — generates contextual comments for your feed |
-| [**detectCost**](https://github.com/ibrahimokdadov/detectCost) | Photograph construction materials → AI generates a cost quote |
-| [**babeat**](https://github.com/ibrahimokdadov/babeat) | AI baby food nutrition scanner — photograph food, get nutrition analysis |
-| [**postwriter**](https://github.com/ibrahimokdadov/postwriter) | AI social media post generator |
-| [**subtranslator**](https://github.com/ibrahimokdadov/subtranslator) | Firefox extension — translates subtitles in real time |
-| [**summarizer**](https://github.com/ibrahimokdadov/summarizer) | Firefox extension — summarizes any text on a page |
-| [**faugpt**](https://github.com/ibrahimokdadov/faugpt) | GPT-powered AI assistant |
-| [**handymen**](https://github.com/ibrahimokdadov/handymen) | Uber-like app connecting Algerians with local tradesmen |
-| [**bana**](https://github.com/ibrahimokdadov/bana) | Construction materials delivery app for Algeria |
-| [**Truckzie**](https://github.com/ibrahimokdadov/Truckzie) | Material delivery platform — built for my own trucks business |
-| [**askalgeria**](https://github.com/ibrahimokdadov/askalgeria) | Community Q&A — questions answered by the Algerian community on Instagram |
-| [**claudeView**](https://github.com/ibrahimokdadov/claudeView) | Desktop widget that turns your Claude Code sessions into plants |
-| [**drahm**](https://github.com/ibrahimokdadov/drahm) | Offline-first personal spending tracker |
+`~/stack` &nbsp; Rust · TypeScript · Python · Electron · Tauri · React Native
 
 ---
 
-## Stack
-
-Python · JavaScript · LLMs · OpenAI API · React Native · Firefox Extensions
-
----
-
-## Elsewhere
-
-- Newsletter → [journey.yaz.in](https://journey.yaz.in)
-- Community → [askalgeria.com](https://askalgeria.com)
-- LinkedIn → [linkedin.com/in/ibrahimmokdad](https://linkedin.com/in/ibrahimmokdad)
+LinkedIn → [linkedin.com/in/ibrahimmokdad](https://linkedin.com/in/ibrahimmokdad)
