@@ -23,6 +23,7 @@
 
 - [**winopenoats**](https://github.com/ibrahimokdadov/winopenoats) · [↗](https://winopenoats.whhite.com/) — Windows meeting assistant: real-time transcription + knowledge base
 - [**dilusional**](https://github.com/ibrahimokdadov/dilusional) · [↗](https://dilusional.whhite.com/) — scores your commits against Claude's code, with roasts and diffs
+- [**scanfix**](https://github.com/ibrahimokdadov/scanfix) · [↗](https://scanfix.whhite.com/) — fix wavy flat-bed scans and extract clean spreadsheet data from scanned accounting PDFs
 - [**sujoodSaho**](https://github.com/ibrahimokdadov/sujoodSaho) · [↗](https://sujoodsaho.whhite.com/) — interactive guide for Sujood al-Saho: decision tree and flashcard quiz
 - [**fitrZT**](https://github.com/ibrahimokdadov/fitrZT) · [↗](https://zakatfitr.whhite.com) — Zakat al-Fitr calculator, bilingual Arabic/English
 - [**gmailCleanse**](https://github.com/ibrahimokdadov/gmailCleanse) — Gmail bulk cleanup that runs entirely inside Google Sheets
