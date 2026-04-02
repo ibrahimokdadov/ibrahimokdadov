@@ -16,6 +16,7 @@
 - [**recoverer**](https://github.com/ibrahimokdadov/recoverer) · [↗](https://recoverer.whhite.com/) — Windows file recovery tool, Rust engine
 - [**DiskSizer**](https://github.com/ibrahimokdadov/DiskSizer) · [↗](https://disksizer.whhite.com/) — high-performance disk analyzer with sunburst and treemap visualizations
 - [**mdPDF**](https://github.com/ibrahimokdadov/mdPDF) · [↗](https://mdpdf.whhite.com/) — Markdown → styled PDF with live preview and Mermaid diagram support
+- [**winmdPDF**](https://github.com/ibrahimokdadov/winmdpdf) · [↗](https://winmdpdf.whhite.com/) — Desktop Markdown-to-PDF editor. Live preview, Mermaid diagrams, Electron app for Windows/macOS/Linux.
 - [**mobiler**](https://github.com/ibrahimokdadov/mobiler) — lightweight Android emulator for React Native devs, built with Tauri and QEMU
 - [**svger**](https://github.com/ibrahimokdadov/svger) · [↗](https://svger.whhite.com/) — browser-based SVG editor: recolor, transform, export to PNG/JPEG/WebP
 
