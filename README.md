@@ -7,7 +7,6 @@
 `~/claude-tools`
 
 - [**claudeSession**](https://github.com/ibrahimokdadov/claudesession) · [↗](https://claudesession.whhite.com/) — session identity and project awareness for Claude Code
-  [![claudeSession demo](https://raw.githubusercontent.com/ibrahimokdadov/claudeSession/master/demo.gif)](https://claudesession.whhite.com/)
 - [**claudeMonitor**](https://github.com/ibrahimokdadov/claudeMonitor) · [↗](https://claudemonitor.whhite.com/) — live dashboard for monitoring multiple Claude Code sessions
 - [**claudecost**](https://github.com/ibrahimokdadov/claudecost) — real-time cost and token tracker for Claude Code
 - [**claudeView**](https://github.com/ibrahimokdadov/claudeView) · [↗](https://claudeview.whhite.com/) — desktop widget that turns Claude Code sessions into animated plants
