@@ -14,6 +14,8 @@
 
 `~/dev-tools`
 
+- [**reposhield**](https://github.com/ibrahimokdadov/reposhield) · [↗](https://securitychecker.whhite.com/) — AI-powered security vulnerability scanner for Git repositories. No API key needed.
+
 - [**recoverer**](https://github.com/ibrahimokdadov/recoverer) · [↗](https://recoverer.whhite.com/) — Windows file recovery tool, Rust engine
 - [**DiskSizer**](https://github.com/ibrahimokdadov/DiskSizer) · [↗](https://disksizer.whhite.com/) — high-performance disk analyzer with sunburst and treemap visualizations
 - [**mdPDF**](https://github.com/ibrahimokdadov/mdPDF) · [↗](https://mdpdf.whhite.com/) — Markdown → styled PDF with live preview and Mermaid diagram support
