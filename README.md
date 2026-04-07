@@ -14,7 +14,7 @@
 
 `~/dev-tools`
 
-- [**reposhield**](https://github.com/ibrahimokdadov/reposhield) · [↗](https://securitychecker.whhite.com/) — AI-powered security vulnerability scanner for Git repositories. No API key needed.
+- [**reposhield**](https://github.com/ibrahimokdadov/reposhield) · [↗](https://securitychecker.whhite.com/) · [npm](https://npmjs.com/package/reposhield) — AI-powered security vulnerability scanner for Git repositories. No API key needed. `npx reposhield scan <url>`
 
 - [**recoverer**](https://github.com/ibrahimokdadov/recoverer) · [↗](https://recoverer.whhite.com/) — Windows file recovery tool, Rust engine
 - [**DiskSizer**](https://github.com/ibrahimokdadov/DiskSizer) · [↗](https://disksizer.whhite.com/) — high-performance disk analyzer with sunburst and treemap visualizations
