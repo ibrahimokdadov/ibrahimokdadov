@@ -32,6 +32,7 @@
 - [**fitrZT**](https://github.com/ibrahimokdadov/fitrZT) · [↗](https://zakatfitr.whhite.com) — Zakat al-Fitr calculator, bilingual Arabic/English
 - [**gmailCleanse**](https://github.com/ibrahimokdadov/gmailCleanse) — Gmail bulk cleanup that runs entirely inside Google Sheets
 - [**expenseTrackerAPP**](https://github.com/ibrahimokdadov/expenseTrackerAPP) — React Native personal expense tracker
+- [**solarVisual**](https://github.com/ibrahimokdadov/solarvisual) · [↗](https://solarvisual.whhite.com/) — interactive 3D solar system visualizer: rotate a house, click each component, read real specs
 - [**raceGame**](https://github.com/ibrahimokdadov/raceGame) — 3D driving sim with a procedurally-generated city, built with Three.js
 - [**Mather**](https://mather.whhite.com) — Math learning PWA for kids. Times tables & division via spaced repetition. Works offline.
 
