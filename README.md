@@ -23,6 +23,7 @@
 - [**mobiler**](https://github.com/ibrahimokdadov/mobiler) — lightweight Android emulator for React Native devs, built with Tauri and QEMU
 - [**svger**](https://github.com/ibrahimokdadov/svger) · [↗](https://svger.whhite.com/) — browser-based SVG editor: recolor, transform, export to PNG/JPEG/WebP
 - [**solarVisual**](https://github.com/ibrahimokdadov/solarVisual) · [↗](https://solar-app.whhite.com) — interactive 3D home solar installation visualizer; rotate the house, click any component for real specs. Three.js + React.
+- **[SolarView](https://solarview.whhite.com)** — Visual solar installation planner. Configure your home floor by floor, place appliances, and get solar panel/inverter/battery sizing with a 10-year financial projection.
 
 `~/apps`
 
