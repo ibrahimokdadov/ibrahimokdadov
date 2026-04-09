@@ -22,6 +22,7 @@
 - [**winmdPDF**](https://github.com/ibrahimokdadov/winmdpdf) · [↗](https://winmdpdf.whhite.com/) — Desktop Markdown-to-PDF editor. Live preview, Mermaid diagrams, Electron app for Windows/macOS/Linux.
 - [**mobiler**](https://github.com/ibrahimokdadov/mobiler) — lightweight Android emulator for React Native devs, built with Tauri and QEMU
 - [**svger**](https://github.com/ibrahimokdadov/svger) · [↗](https://svger.whhite.com/) — browser-based SVG editor: recolor, transform, export to PNG/JPEG/WebP
+- [**solarVisual**](https://github.com/ibrahimokdadov/solarVisual) · [↗](https://solar-app.whhite.com) — interactive 3D home solar installation visualizer; rotate the house, click any component for real specs. Three.js + React.
 
 `~/apps`
 
@@ -43,7 +44,7 @@
 
 ---
 
-`~/stack` &nbsp; Rust · TypeScript · Python · Electron · Tauri · React Native
+`~/stack` &nbsp; Rust · TypeScript · Python · Electron · Tauri · React Native · Three.js
 
 ---
 
